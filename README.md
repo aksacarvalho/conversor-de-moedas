@@ -12,14 +12,14 @@ Essa é  uma Landing Page  Desenvolvida atraves da Missão Bora codar da Rockets
 </p>
 
 <p align="center">
-  <img alt="C:\Users\aksac\Pictures\Screenshots\Captura de Tela (2).png">
+  <img alt="">
 
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="C:\Users\aksac\Pictures\Screenshots\Captura de Tela (2).png">
+  <img alt="">
 
 </p>
 
