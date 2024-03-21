@@ -12,14 +12,14 @@ Essa é  uma Landing Page  Desenvolvida atraves da Missão Bora codar da Rockets
 </p>
 
 <p align="center">
-  <img alt="![Captura de Tela (2)](https://github.com/aksacarvalho/conversor-de-moedas/assets/153899374/0a6fd25e-3320-4f64-96ea-52be6e5fcd76)">
+  <img alt="C:\Users\aksac\Pictures\Screenshots\Captura de Tela (2).png">
 
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="![Captura de Tela (2)](https://github.com/aksacarvalho/conversor-de-moedas/assets/153899374/24cbff7e-a84d-43de-86c9-469683318f6a)">
+  <img alt="C:\Users\aksac\Pictures\Screenshots\Captura de Tela (2).png">
 
 </p>
 
